@@ -16,7 +16,8 @@ Route::group(array('prefix' => 'admin', 'before' => 'auth'), function()
 */
 Route::group(array('prefix' => 'pood'), function()
 {
-   Route::get('{page?}', 'ContentController@showPage');
+	Route::get('ostukorv', 'ShopController@showCart');
+    Route::get('{page?}', 'ShopController@showPage');
 });
 
 /*

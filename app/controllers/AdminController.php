@@ -9,5 +9,7 @@
 |--------------------------------------------------------------------------
 */
 class AdminController extends BaseController {
-	
+	public function showPage($page) {
+		
+	}
 }

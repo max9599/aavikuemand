@@ -8,7 +8,6 @@
 */
 class ContentController extends BaseController {
 	public function showPage($page = 'index') {
-		$lang = 'est';
 		$page = utf8_decode($page);
 		return View::make("content.est.$page") -> withLang('est');
 	}

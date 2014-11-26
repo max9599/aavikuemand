@@ -7,6 +7,10 @@
 
 <title>Aavikuemand UÜ</title>
 
+<!-- Javascript -->
+{{HTML::script('js/jquery.js')}}
+{{HTML::script('js/bootstrap.js')}}
+
 <!-- Bootstrap Core CSS -->
 {{HTML::style('css/bootstrap.css')}}
 
@@ -15,6 +19,7 @@
 
 <!-- Custom CSS -->
 {{HTML::style('css/style.css')}}
+
 
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

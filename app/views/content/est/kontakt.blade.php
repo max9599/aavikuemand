@@ -12,13 +12,15 @@
                     <hr>
                     <div class="row">
                         <div class="col-lg-4">
-                            Aavikuemand UÜ <br>
-                            Aaviku tee 11, Kersalu küla, Keila vald<br>
-                            76413 Harjumaa<br>
-                            eve@aavikuemand.ee<br>
-                            +372 56670600<br>
-                            10707203<br>
-                            221015699887 Swedbank<br>
+                            <ul class="list-group">
+                                <li class="list-group-item">Aavikuemand UÜ</li>
+                                <li class="list-group-item">Aaviku tee 11, Kersalu küla, Keila vald</li>
+                                <li class="list-group-item">76413 Harjumaa<br></li>
+                                <li class="list-group-item">eve@aavikuemand.ee</li>
+                                <li class="list-group-item">+372 566 70 600</li>
+                                <li class="list-group-item">10707203</li>
+                                <li class="list-group-item">Swedbank EE542200221015699887</li>
+                            </ul>
                         </div>
                         <div class="col-lg-8">
                             <p>Sõidujuhis: asume Tallinn-Paldiski maantee 40.kilomeetril. Pärast Madisele näitavat viita (sinnapoole ei pööra) on 50 meetri pärast vasakut kätt Kersalu küla suur puust teadetetahvel ja postkastid, mille kõrvalt läheb väike pinnastee. Seda väikest teed tuleb sõita 300 meetrit, kuni vasakut kätt jääb suur roheline soojak. Sellest mööda ja oletegi kohal.</p> 
