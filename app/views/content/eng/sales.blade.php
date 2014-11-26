@@ -7,35 +7,11 @@
             <div class="col-lg-12">
                 <hr>
                 <h2 class="intro-text text-center">
-                    <strong>Müük</strong>
+                    <strong>Sales</strong>
                 </h2>
                 <hr>
-				<p>
-					Müügiplats Kersalu külas on avatud kokkuleppel, palume kindlasti ette helistada. Kohapeal saab tasuda sularahas või internetipanga kaudu, 1.maist 30.septembrini saab maksta ka kaardiga. Kõiki veebipoes olevaid taimi ei pruugi müügiplatsil olla, sest nomenklatuur muutub kogu aeg. Sama vastupidi, müügiplatsil võib olla üksikuid haruldusi oma aiast, mis veebipoodi ei jõuagi.
-				</p>
-				<p>
-					Tellimine veebipoes: olles oma valiku teinud, tuleb tellimuse kinnitus teie meilile. Palun ärge tasuge tellimuse eest enne, kui olete saanud arve, millel on ka transpordikulud. Pakume taimede transpordiks järgmisi võimalusi:
-					<div class="row">
-						<div class="col-md-10">
-						<ul>
-							<li>Smartpost</li>
-							<li>DPD kuller (kuni 31,5kg kaaluv pakk 8 eurot)</li>
-						</ul>
-					</div>
-						<div class="col-md-2">
-							{{HTML::image('img/logod/dpd.gif', 'DPD logo', array('class' => 'img-responsive img-border img-left', 'style' => 'width:100%;max-width:200px;'))}}
-						</div>
-					</div>
-					
-					 
-				</p>
-				<p>
-					Pakume oma taimi ka taimelaatadel, kindlasti Luige laadal, Türi Lillelaadal.
-				</p>
-				<p>
-					Kui aga valikut veel teha ei suuda või tahaks taime kinkida hoopis sõbrale, pole aga veendunud, mida sõber eelistaks, on kindlasti abiks meie kinkekaart. Kinkekaarte on väärtusega 10, 15, 20 ja 25 eurot. Kinkekaarte saadame ka postiga, postikulu 0.50 senti. Tellimused palume meilile.Taimi ja muid kaupu saab kinkekaardi eest lunastada nii meie postimüügis kui ka müügiplatsil Kersalus.
-				</p>
-	     DPD logo
+				<p>Our webshop is selling plants in all over EU, using DPD courier service DPD. To Finland we can also send using Itella mail service SmartPost . Please make your selection and enter your information like name, address, phone and e-mail address. Please do not pay before you get an invoice with the delivery costs, which depends on the destination and weight, to your e-mail. We are sending out the parcel in 1-2 days after receiving the payment.</p>
+				<p>But if you prefer to visit us, we accept cash payments and from May 1st until September 30th we accept all debit and credit cards. Please note, that all plants from the webshop are not available on spot all year around. And on the other hand, some single rarieties can be found only in our garden shop.</p>
 			</div>
 		</div>
 	</div>

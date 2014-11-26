@@ -15,7 +15,7 @@
                     <p>Juba aastast 1995. oleme Eestis müünud Inglise tootja Brook International LTD lipukangaid ja digitrükikangaid. Suhteliselt lühike tarneaeg ja stabiilselt hea kvaliteet on meie põhilisteks turueelisteks. Enammüüdud kangaid hoiame ka Eestis laos.</p>
                     <p>Kangapäringute osas palume helistada +372 56670600 või saata email Eve@aavikuemand.ee</p>
                     <p>Kehtib alates märtsist 2013 miinumumkogusele 1200 jooksvat meetrit</p>
-                    <p>Lisainfo ja sertifikaadid: Brook International</p>
+                    <p>Lisainfo ja sertifikaadid:<a href="http://www.brookinternational.com/">Brook International</a> </p>
                 </div>
             </div>
 

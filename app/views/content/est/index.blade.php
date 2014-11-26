@@ -10,7 +10,7 @@
                         <strong>Ettevõttest</strong>
                     </h2>
                     <hr>
-                    {{HTML::image('img/content/logo.jpg', 'Aavikuemand UÜ logo', array('class' => 'img-responsive img-border img-left', 'style' => 'width:30%'))}}
+                    {{HTML::image('img/content/logo.jpg', 'Aavikuemand UÜ logo', array('class' => 'img-responsive img-border img-left img-thumbnail', 'style' => 'width:30%'))}}
                     <hr class="visible-xs">
                     <p>
                     	Aasta 1879 imekaunil juunipäeval ostis rannakalur Jürri Lemming Keila mõisahärra Gottlieb von Meyendorffi käest enesele päriseks Awiko talukoha, makstes selle eest kolmsada hõberubla. Sellest ajast saadik on see väike rannatalukoht olnud ühe suguvõsa omanduses hoolimata sellest, milline on olnud riigikord ja millised sõjad ja tormid siit üle käinud on.

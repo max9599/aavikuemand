@@ -7,15 +7,17 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">
-                        <strong>Digitaaltrüki kangad</strong>
+                        <strong>Digitalprint fabrics</strong>
                     </h2>
                     <hr>
                     {{HTML::image('img/logod/tropikal.jpg', 'Aavikuemand UÜ logo', array('class' => 'img-responsive img-border img-left', 'style' => 'width:30%'))}}
                     <hr class="visible-xs">
-                    <p>Juba aastast 1995. oleme Eestis müünud Inglise tootja Brook International LTD lipukangaid ja digitrükikangaid. Suhteliselt lühike tarneaeg ja stabiilselt hea kvaliteet on meie põhilisteks turueelisteks. Enammüüdud kangaid hoiame ka Eestis laos.</p>
-                    <p>Kangapäringute osas palume helistada +372 56670600 või saata email Eve@aavikuemand.ee</p>
-                    <p>Kehtib alates märtsist 2013 miinumumkogusele 1200 jooksvat meetrit</p>
-                    <p>Lisainfo ja sertifikaadid: Brook International</p>
+                    <p>We have been selling fabrics and digital printed fabrics from Brook International LTD in Estonia since 1995.
+                    Relatively short delivery time and good quality are out main market advantages. 
+                    Fabrics that are sold most we also keep in an Estonian warehouse</p>
+                    <p>To query about fabrics please call +372 566 70 600 or send an email to Eve@aavikuemand.ee</p>
+                    <p>Effective from March 2013 for minimum quantity 1200 running metres </p>
+                    <p>Additional information and certificates: <a href="http://www.brookinternational.com/">Brook International</a>  </p>
                 </div>
             </div>
 

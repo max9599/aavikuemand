@@ -13,17 +13,10 @@
                     <hr class="visible-xs">
                     <ul>
 						<li>
-							Taimeotsingu teenus. Leiame ja toome teile harvaesinevaid taimi. 
-							Teenuse maksumus sõltub tegelikest kuludest (taime maksumus, transport jms), 
-							millele lisandub agentuuritasu 15%. Kõikidele hindadele lisandub kehtiv käibemaks. 
+							Planthunting service. We will find and despatch you any plant of your dreams, if this plant is legal in EU. Cost of this service will depend from actual costs like plants price, transport, taxes etc. Agency fee 15% will be added and if the customer has no VAT number, Estonian VAT 20% will be also added. 
 						</li>
 						<li>
-							Tasulised aiaekskursioonid kuni 10-le inimesele, üksikpileti hind 3 eurot. 
-							Suurematele gruppidele (10+ inimest) on hind 2.50 inimese kohta, grupi giid, 
-							reisisaatja ja bussijuht saavad aeda külastada tasuta. Soovi korral pakume kohvi 
-							või teed (1 € inimese kohta) ja kodutehtud kooki (1 € inimese kohta). Hinnad 
-							sisaldavad käibemaksu. Aiakülastus palume telefoni või meili teel ette broneerida, 
-							vabad ajad leiab allolevast kalendrist. 
+							Garden excursions for groups. Single tickets cost 3 €. For the groups more than 10 people the cost is 2.50 € per person, group guide, bus driver etc. free of charge. We can offer coffee or tea (1 € per person) and home-made cake (1 € per person). All prices include VAT 20%. All services must be pre-ordered by e-mail or phone. Please check the available dates from the calendar below: 
 						</li>
 					</ul>
 					<iframe style='width:100%' height="800" frameborder="0" scrolling="auto" src="http://www.availcheck.com/cgi-bin/calendar.cgi?propid=19285"></iframe>			
