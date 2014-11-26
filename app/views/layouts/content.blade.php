@@ -8,7 +8,7 @@
         @include('lib.shopnav')
         @include('lib.header')
         <!-- Navigation -->
-        @include('lib.navbar')
+        @include("lib.$lang.navbar")
 
         <div class="container">
             @yield('content')
